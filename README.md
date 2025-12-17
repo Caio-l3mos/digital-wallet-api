@@ -1,24 +1,20 @@
+# Digital Wallet API
 
-O que terá:
+API REST desenvolvida em Node.js com foco em sistemas financeiros e regras de negócio.
 
-Cadastro de usuário
+## Funcionalidades planejadas
+- Cadastro e autenticação de usuários
+- Conta digital com saldo
+- Histórico de transações
+- Depósitos e saques com validações
+- Segurança e controle de acesso
+- Testes automatizados
+- Documentação da API
 
-Autenticação JWT + refresh token
-
-Conta digital
-
-Saldo
-
-Histórico de transações
-
-Depósito e saque
-
-Regras de negócio (não permitir saldo negativo)
-
-Logs
-
-Testes
-
-Documentação Swagger
-
-Deploy
+## Tecnologias
+- Node.js
+- TypeScript
+- Express
+- Prisma
+- PostgreSQL
+- JWT
