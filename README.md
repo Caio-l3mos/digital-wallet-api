@@ -1,12 +1,24 @@
-# API de Gestão de Tarefas
-Projeto da Semana 3 – Desenvolvimento de API completa com Node.js.
 
-## Tecnologias
-- Node.js
-- Express
-- Prisma
-- PostgreSQL
-- JWT
-- Swagger
+O que terá:
 
-Desenvolvimento começará em breve.
+Cadastro de usuário
+
+Autenticação JWT + refresh token
+
+Conta digital
+
+Saldo
+
+Histórico de transações
+
+Depósito e saque
+
+Regras de negócio (não permitir saldo negativo)
+
+Logs
+
+Testes
+
+Documentação Swagger
+
+Deploy
